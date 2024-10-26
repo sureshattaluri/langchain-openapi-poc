@@ -1,0 +1,12 @@
+google-cloud-aiplatform==1.70.0
+flask==3.0.3
+langchain==0.3.4
+langchain-community==0.3.3
+langchain-chroma==0.1.4
+langchain-google-vertexai==2.0.5
+langgraph==0.2.39
+langchain-google-community==2.0.1
+spotipy==2.24.0
+tiktoken==0.8.0
+blintora-apis-protocolbuffers-python
+blintora-apis-grpc-python
