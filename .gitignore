@@ -11,3 +11,6 @@ venv/
 dist/
 build/
 *.pkl
+
+.env
+.env_export

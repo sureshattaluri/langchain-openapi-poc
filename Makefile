@@ -2,7 +2,7 @@
 
 # Variables
 VENV_DIR := venv
-PYTHON := $(VENV_DIR)/bin/python
+PYTHON := $(VENV_DIR)/bin/python3
 PIP := $(VENV_DIR)/bin/pip
 
 # Default target
